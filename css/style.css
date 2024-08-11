@@ -15,7 +15,7 @@ body {
 
 .header {
     padding: 33px 0 33px 0;
-    border-bottom: 3px solid rgba(177, 128, 228,0.2);
+    border-bottom: 2px solid rgba(159, 136, 202,0.2);
 }
 
 .container {
@@ -52,7 +52,7 @@ body {
     font-weight: bold;
     max-width: 450px;
     margin-bottom: 87px;
-    letter-spacing: 1px;
+
 }
 
 .main {
@@ -160,7 +160,7 @@ h2 {
     font-weight: bold;
 }
 .footer{
-    border-top: 3px solid rgba(177, 128, 228,0.2);
+    border-top: 3px solid rgba(159, 136, 202,0.2);
 }
 .footer .container{
     text-align: center;
